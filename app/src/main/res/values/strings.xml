@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JustSignUp</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="email_hint">Enter your email address</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="welcome">Welcome!</string>
+    <string name="password_error">Password Invalid</string>
+    <string name="email_error">"Email invalid"</string>
+    <string name="name_error">Name Invalid</string>
+</resources>

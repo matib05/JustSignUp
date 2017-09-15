@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\7b61b05fcb7deb855800db484518473b37a16896\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e90c2347d470543c49531989b8c2d4c5396cae90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\9cd375197a5d666e43378796f5bc9f2740c8c631\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddf6ddee9fc5a8c9acb6882dc1ef7411e4b031f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3ab536cb8cbd203c84af693b6bf1d15ab7eb9b66">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bfb0a035f671d45ee57471afe44373258ade288e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\2474a81fdfaa99302d4d9fc710cae9e5db47d749\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2760823c45f9e55405693db0742400858eb3a471\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\389a497eb7818462d5f057089cc764a6e712e5cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18e27b42b9a46c48beffc8bcc7a7e33778692f79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_d292b531ec12899a87a4df9e35e1e01df2f94228\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\23189afc354d59e5ec8bf8e1d849f3b9c80434f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54f8a73e76a00631c32a3f27cbb326dfe6c0f224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\e39c58c2506b64c92840b18b69ff032dd5e75927\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96b78fe1129db524cc245fb15bedaba7a9033537\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_87edab9222fb47d3af71b7c9c710e4c767ef1c37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\50456fa0f847f12ae3dd2a10a21bd4871aff5dbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9284b837e0e47514d094a763cd0cb4da9868670d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_959c1e0503d0420bef8949aad2bb57a54d013745\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_e06ae8271e7441ec0970b2c8995690e6b5710696\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\4c568f7cf8ff71c130fc57081a0c702aaf822d5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f91c658fbf25a213bc4955482b8584fa018a66fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\b6aed6e67641fb8db25bd21ba41df01f726341bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f05629d6d9e8dafcc33a7324977ec807c6291920\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_b458b2d43750074575bc01146529dc197f26d5ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\8b2fa5d645f99cc1e620587c82d7fc6b5163202c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_090c61992205636266e5abda9f5296b90c09d9ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\d7283c8db5f9717c398f1191faf2ea728efb5309\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f729192406b7aebc91f740f763e2f65212963152\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\6f06aa4d4619b8bf506fa46bdb7e13887944a3d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f85358d34f5334446135aed57bb0421383589f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\4b9c67ac4549bd2bbb2a9de05cabadd76ff622b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cb168888fc3254932ef488f4f2eeff855935855\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\048f81d057200c602dd3f2940d5f0809c01826fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c9683fcc76b908484c4d096d1d9a68092e2acdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\ce5986a2a47b7640b232aa0d1f7051342260266d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a56e0eea223efb5856cdafe170fb5e4ff85beddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f20d22c38786f785a53f58c9947014d5a14eba03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\c78547ef00c9eed9c339c01bbdab3d5e04973027\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ec6986ce176fc4121c41e39e384d4169d92598a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.android\build-cache\8662bde2b7f96849ca27b42005a700c348a6ab2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_936ed400b82e065d6cc6ed51f32da7df406e09ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matib05\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\matib05\Desktop\AndroidProjects\JustSignUp\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_886674f97621998a644c4b379f2d154860272c1f\classes.dex" />
+    </item>
+
+</items>
