@@ -10,25 +10,20 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.google.firebase.database.FirebaseDatabase;
 import com.matib05.android.justsignup.view.list.GitActivity;
-import com.matib05.android.justsignup.view.list.PickActivity;
 import com.matib05.android.justsignup.R;
 import com.matib05.android.justsignup.presenter.SignUpPresenter;
 
-import java.util.UUID;
+
 
 public class SignUpActivity extends AppCompatActivity implements SignUpView{
-
-    private static final String TAG = "SignUpActivity";
 
     SignUpPresenter presenter;
     private EditText mName;
     private EditText mEmail;
     private EditText mPassword;
     private Button mSignUp;
-    private FirebaseDatabase mDatabase = FirebaseDatabase.getInstance();
-
+    private static final String TAG = "SignUpActivity";
 
 
     @Override
@@ -64,8 +59,8 @@ public class SignUpActivity extends AppCompatActivity implements SignUpView{
 
     @Override
     public void navigateToPickActivity() {
-        Intent intent = new Intent(SignUpActivity.this, GitActivity.class);
-        //intent.putExtra("username", getEmail());
+        Intent intent = new Intent(getApplicationContext(), GitActivity.class);
+        intent.putExtra("username", getName());
         startActivity(intent);
         finish();
     }
@@ -92,7 +87,6 @@ public class SignUpActivity extends AppCompatActivity implements SignUpView{
 
 
     protected void sendEmail() {
-        Log.i("Send email", "");
 
         String[] TO = {"matib05@gmail.com"};
         Intent emailIntent = new Intent(Intent.ACTION_SEND);
@@ -107,20 +101,9 @@ public class SignUpActivity extends AppCompatActivity implements SignUpView{
         try {
             startActivity(Intent.createChooser(emailIntent, "Send mail..."));
             finish();
-            Log.i(TAG, "Finished sending email...");
         } catch (android.content.ActivityNotFoundException ex) {
             Toast.makeText(SignUpActivity.this,
                     "There is no email client installed.", Toast.LENGTH_SHORT).show();
         }
-    }
-
-
-
-    private void signUp(String name, String email, String password) {
-        UUID userId = UUID.randomUUID();
-        mDatabase.getReference().child(userId.toString()).child("Name").setValue(name);
-        mDatabase.getReference().child(userId.toString()).child("Email").setValue(email);
-        mDatabase.getReference().child(userId.toString()).child("Password").setValue(password);
-        Log.d(TAG, "signUp: email exists?");
     }
 }

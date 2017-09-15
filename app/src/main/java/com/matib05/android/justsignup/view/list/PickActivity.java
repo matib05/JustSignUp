@@ -21,7 +21,7 @@ import com.matib05.android.justsignup.R;
 import java.util.ArrayList;
 
 public class PickActivity extends AppCompatActivity {
-    private static final String TAG = "PickActivity";
+    /*private static final String TAG = "PickActivity";
 
     private ListView mListView;
 
@@ -32,7 +32,7 @@ public class PickActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: created");
         // instantiate List Item data
         String[] values = new String[] {
-            "QuranRace", "QuranGoals", "QuranGames", "QuranReader", "QuranReciter"
+            "Quranstuff"
         };
 
         ArrayList<String> list = new ArrayList<>();
@@ -88,6 +88,6 @@ public class PickActivity extends AppCompatActivity {
 
             return convertView;
         }
-    }
+    }*/
 
 }
